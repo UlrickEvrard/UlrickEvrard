@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @UlrickEvrard
 - 👀 I’m interested in Web development, VideoGame development, Software development.
 - 🌱 I’m currently learning 
-  1. Unity
-  2. React
-  3. Flutter 
-  4. Python
-  5. A way to stop sleeping and get time to learn all of this
+  1. React
+  2. Laravel
 - 💞️ I’m looking to collaborate on whatever sound great!
 - 📫 Send me a mail @ Evrard.ulrick.pro@gmail.com
 
